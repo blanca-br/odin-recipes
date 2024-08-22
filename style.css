@@ -1,0 +1,102 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+
+.title {
+    margin-top: 30px;
+    margin-bottom: 25px; 
+    text-align: center;
+}
+
+.title img {
+    width: 25%;
+}
+
+.container {
+    width: 80%;
+    margin: 0px auto 0px auto;
+}
+
+.container-two {
+    width: 80%;
+    margin: 50px auto 0px auto;
+}
+
+.recipe {
+    display: inline-block;
+    width: 32.7%;
+}
+
+.one, .two {
+    margin-right: 6px;
+}
+
+.recipe img {
+    width: 100%;
+}
+
+h3 {
+    background-color: #ffbea5;
+    padding: 27px;
+    margin-top: -4px;
+    text-align: center;
+    color: white;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-size: 22px;
+    letter-spacing: 1px; 
+    font-weight: normal;
+}
+
+.recipe a {
+    color: white;
+    text-decoration: none;
+}
+
+.footer {
+    background-color: #FED3C3;
+    font-size: 14px;
+    margin-top: 150px;
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #9e9e9e;
+    font-weight: 400;
+    padding: 10px;
+}
+
+.social {
+    text-align: left;
+    margin-left: 50px;
+    width: 45%;
+    display: inline-block;
+}
+
+.social p {
+    display: inline-block;
+    margin-right: 10px;
+}
+
+.social a {
+    color: #9e9e9e;
+    text-decoration: none;
+}
+
+.social a:hover {
+    text-decoration: underline;
+  }
+
+.copyright {
+    text-align: right;
+    margin-right: 50px;
+    width: 47%;
+    display: inline-block;
+}
+
+
+
+
+
+
+
+
+
